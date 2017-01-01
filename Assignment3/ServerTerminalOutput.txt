@@ -1,0 +1,31 @@
+﻿received from client: ('192.168.131.129', 5005)
+received message: (0, 0, b'NCC-1701', b'e4d48cc025bf08b68a1db367bb58e177')
+client address is:  192.168.131.129
+Chksum:  b'e4d48cc025bf08b68a1db367bb58e177'
+Checksums Match
+Sequence numbers match:  0
+Building ACK response to client
+Chksum:  b'7dea362b3fac8e00956a4952a3d4f474'
+ACK sent to client
+
+
+received from client: ('192.168.131.129', 5005)
+received message: (0, 1, b'NCC-1664', b'4da30102bc1a0fc444d0efc4630bbc59')
+client address is:  192.168.131.129
+Chksum:  b'4da30102bc1a0fc444d0efc4630bbc59'
+Checksums Match
+Sequence numbers match:  1
+Building ACK response to client
+Chksum:  b'da35686b165e3223d5d49c046644e68e'
+ACK sent to client
+
+
+received from client: ('192.168.131.129', 5005)
+received message: (0, 0, b'NCC-1017', b'91403416ae18fd2ff3905deaa243e4d5')
+client address is:  192.168.131.129
+Chksum:  b'91403416ae18fd2ff3905deaa243e4d5'
+Checksums Match
+Sequence numbers match:  0
+Building ACK response to client
+Chksum:  b'7dea362b3fac8e00956a4952a3d4f474'
+ACK sent to client
