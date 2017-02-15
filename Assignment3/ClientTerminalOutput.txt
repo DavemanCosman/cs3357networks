@@ -1,0 +1,44 @@
+﻿UDP target IP: 127.0.0.1
+UDP target port: 5005
+
++++Sending packet to server with values:+++
+ACK:  0
+Seq num:  0
+data:  b'NCC-1701'
+Chksum:  b'e4d48cc025bf08b68a1db367bb58e177'
+Packet successfully sent
+--Reply Received!--
+received from: ('127.0.0.1', 5005)
+received reply: (0, 0, b'7dea362b3fac8e00956a4952a3d4f474')
+Packet ACK
+Chksum:  b'7dea362b3fac8e00956a4952a3d4f474'
+Checksums Match; ACK packet correct
+Sequence numbers match
+
++++Sending packet to server with values:+++
+ACK:  0
+Seq num:  1
+data:  b'NCC-1664'
+Chksum:  b'4da30102bc1a0fc444d0efc4630bbc59'
+Packet successfully sent
+--Reply Received!--
+received from: ('127.0.0.1', 5005)
+received reply: (0, 1, b'da35686b165e3223d5d49c046644e68e')
+Packet ACK
+Chksum:  b'da35686b165e3223d5d49c046644e68e'
+Checksums Match; ACK packet correct
+Sequence numbers match
+
++++Sending packet to server with values:+++
+ACK:  0
+Seq num:  0
+data:  b'NCC-1017'
+Chksum:  b'91403416ae18fd2ff3905deaa243e4d5'
+Packet successfully sent
+--Reply Received!--
+received from: ('127.0.0.1', 5005)
+received reply: (0, 0, b'7dea362b3fac8e00956a4952a3d4f474')
+Packet ACK
+Chksum:  b'7dea362b3fac8e00956a4952a3d4f474'
+Checksums Match; ACK packet correct
+Sequence numbers match
